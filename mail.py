@@ -5,7 +5,7 @@ import smtplib
 
 #--------------------------------------------------------------------------------------------------------------------------------
 
-#GUI formalities
+#GUI formalities for window mode
 tab = Tk()
 tab.title("Instant MAILBOx")
 tab.geometry('800x500+120+120')
